@@ -1,3 +1,26 @@
+# IGNORE WEIGHTS
+
+*.joblib
+*.tflite
+*.hdf5
+*.h5
+
+# IGNORE IMAGES
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# IGNORE DATA
+
+*.csv
+*.xls
+*.xlsx
+*.json
+*.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
